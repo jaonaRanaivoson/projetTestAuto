@@ -1,0 +1,2 @@
+test :
+# EXECUTE_SAHI paramGen/suppPays.sah ON cible USING sahiConf.properties

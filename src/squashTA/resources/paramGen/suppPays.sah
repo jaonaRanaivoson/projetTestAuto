@@ -1,0 +1,11 @@
+_setValue(_textbox("idUser"), "admin");
+_setValue(_password("idPassword"), "admin");
+_click(_button("SE CONNECTER"));
+_click(_cell("RFPTEST"));
+_click(_span("Ouvrir"));
+_click(_heading5("Paramètres"));
+_click(_span("Paramètres généraux"));
+_click(_span("Pays"));
+_click(_cell("TST"));
+_click(_span("Supprimer"));
+_click(_button("Oui"));
