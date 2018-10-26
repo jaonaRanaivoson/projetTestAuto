@@ -1,0 +1,14 @@
+_setValue(_textbox("idUser"), "admin");
+_setValue(_password("idPassword"), "admin");
+_click(_button("SE CONNECTER"));
+_click(_cell("RFPTEST"));
+_click(_span("Ouvrir"));
+_click(_heading5("Paramètres"));
+_click(_span("Paramètres généraux"));
+_click(_span("Monnaies"));
+_click(_cell("TST"));
+_click(_span("Modifier"));
+_setValue(_textbox(1), "MONAIEMODIFIER");
+_setValue(_textbox(2), "4");
+_click(_div("dx-numberbox-spin-up-icon"));
+_click(_span("Enregistrer"));

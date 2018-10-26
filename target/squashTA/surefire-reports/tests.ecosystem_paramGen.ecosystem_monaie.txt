@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: tests.ecosystem_paramGen
+Test set: tests.ecosystem_paramGen.ecosystem_monaie
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 10.252 sec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 10.228 sec
