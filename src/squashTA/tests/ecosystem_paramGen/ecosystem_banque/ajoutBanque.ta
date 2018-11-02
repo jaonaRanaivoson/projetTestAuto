@@ -1,0 +1,2 @@
+test :
+# EXECUTE_SAHI paramGen/banque/ajoutBank.sah ON cible USING sahiConf.properties

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite time="12.338" failures="0" tests="1" name="tests.ecosystem_paramGen.ecosystem_unite" >
+  <testcase time="12.338" classname="tests.ecosystem_paramGen.ecosystem_unite" name="suppUnite.ta" />
+</testsuite>

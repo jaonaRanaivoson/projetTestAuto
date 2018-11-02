@@ -1,0 +1,2 @@
+test :
+# EXECUTE_SAHI paramGen/pays/ajoutPays.sah ON cible USING sahiConf.properties

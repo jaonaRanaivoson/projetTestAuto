@@ -1,0 +1,2 @@
+test :
+# EXECUTE_SAHI paramGen/unite/modifUnite.sah ON cible USING sahiConf.properties

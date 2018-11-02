@@ -1,2 +1,0 @@
-test :
-# EXECUTE_SAHI paramGen/modifPays.sah ON cible USING sahiConf.properties
