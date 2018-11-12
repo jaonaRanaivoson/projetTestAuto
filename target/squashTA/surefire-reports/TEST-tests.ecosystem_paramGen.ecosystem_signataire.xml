@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite time="10.28" failures="0" tests="1" name="tests.ecosystem_paramGen.ecosystem_signataire" >
+  <testcase time="10.28" classname="tests.ecosystem_paramGen.ecosystem_signataire" name="suppSignataire.ta" />
+</testsuite>

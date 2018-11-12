@@ -1,0 +1,2 @@
+test :
+# EXECUTE_SAHI paramGen/signataire/ajoutSignataire.sah ON cible USING sahiConf.properties
